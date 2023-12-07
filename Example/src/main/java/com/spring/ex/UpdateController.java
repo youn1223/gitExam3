@@ -1,7 +1,5 @@
 package com.spring.ex;
 
-public class ListController {
-
-	// master 8:54
+public class UpdateController {
 	// youn1223 9:04 Ãß°¡ÇÔ
 }
